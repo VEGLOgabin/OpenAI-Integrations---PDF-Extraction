@@ -1,0 +1,23 @@
+2025-03-13 18:02:18 - INFO - Processing file: AT/SterilGARD-SGX04-Product-Specifications-RevE.pdf
+2025-03-13 18:02:18 - INFO - OpenAI API Key has been set.
+2025-03-13 18:02:18 - INFO - Starting data extraction for: AT/SterilGARD-SGX04-Product-Specifications-RevE.pdf
+2025-03-13 18:02:18 - INFO - Extracting text from PDF: AT/SterilGARD-SGX04-Product-Specifications-RevE.pdf
+2025-03-13 18:02:18 - INFO - Successfully extracted text from PDF: AT/SterilGARD-SGX04-Product-Specifications-RevE.pdf
+2025-03-13 18:02:28 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 18:02:28 - INFO - Successfully extracted structured data from: AT/SterilGARD-SGX04-Product-Specifications-RevE.pdf
+2025-03-13 18:02:28 - INFO - Starting data reformatting...
+2025-03-13 18:02:28 - INFO - Data reformatting completed.
+2025-03-13 18:02:28 - INFO - Saving data to Excel file: SterilGARD-SGX04-Product-Specifications-RevE_.xlsx
+2025-03-13 18:02:28 - INFO - Successfully saved data to: SterilGARD-SGX04-Product-Specifications-RevE_.xlsx
+2025-03-13 18:02:28 - INFO - Processing file: AT/2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1.pdf
+2025-03-13 18:02:28 - INFO - OpenAI API Key has been set.
+2025-03-13 18:02:28 - INFO - Starting data extraction for: AT/2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1.pdf
+2025-03-13 18:02:28 - INFO - Extracting text from PDF: AT/2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1.pdf
+2025-03-13 18:02:28 - INFO - Successfully extracted text from PDF: AT/2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1.pdf
+2025-03-13 18:02:32 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 18:02:32 - INFO - Successfully extracted structured data from: AT/2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1.pdf
+2025-03-13 18:02:32 - INFO - Starting data reformatting...
+2025-03-13 18:02:32 - INFO - Data reformatting completed.
+2025-03-13 18:02:32 - INFO - Saving data to Excel file: 2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1_.xlsx
+2025-03-13 18:02:32 - INFO - Successfully saved data to: 2020 ProCuity Spec Sheet JB Mkt Lit 2077 07 OCT 2020 REV C 1_.xlsx
+2025-03-13 18:02:32 - INFO - All PDF processing completed.

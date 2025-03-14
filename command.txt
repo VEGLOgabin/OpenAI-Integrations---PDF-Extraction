@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+python at_pdf_scraper.py 
+ 
