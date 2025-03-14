@@ -1,12 +1,11 @@
 from openai import OpenAI
-import fitz  
+import fitz  # pymupdf module import looks like this
 import os
 import pandas as pd
 import json
 import re
 import logging
 from key import setEnvVar
-
 
 # Configure logging
 logging.basicConfig(
