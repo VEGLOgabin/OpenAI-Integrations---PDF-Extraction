@@ -36,7 +36,7 @@ def at_PDF_Extractor(pdf_path):
     logging.info(f"Starting data extraction for: {pdf_path}")
 
     pdf_text = extract_text_from_pdf(pdf_path)
-    # pdf_text = extract_text_from_pdf()
+   
     prompt = f""" 
     Extract product information from the provided text and return it in a structured format. The text contains technical specifications, product descriptions, and tabular data for multiple products. Your goal is to identify and extract the following fields for each product:
 
